@@ -15,8 +15,8 @@ My first repository
 1. **Parasite**
    A suspenseful South Korean film about two families—one rich, one poor—whose lives become dangerously intertwined through deception.
 
-2.**Ballerina**
+2. **Ballerina**
   An action-thriller film about a skilled assassin seeking revenge for the death of her friend, mixing emotional storytelling with intense fight scenes.
 
-3.**Always**
+3. **Always**
    A romantic drama about a quiet man who falls in love with a blind woman, showing how love grows even through hardship and silence.
