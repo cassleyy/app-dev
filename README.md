@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-## Series
+## My Series
 1. **Stranger Things**
     A sci-fi horror series set in the 1980s, where a group of kids uncover secret government experiments, supernatural forces, and a parallel dimension called the Upside Down.
 
@@ -11,7 +11,7 @@ My first repository
 3. **Game of Thrones**
   A fantasy epic where powerful families fight for the Iron Throne, filled with political drama, war, dragons, and unexpected twists.
    
-### Movies
+### My Movies
 1. **Parasite**
    A suspenseful South Korean film about two families—one rich, one poor—whose lives become dangerously intertwined through deception.
 
